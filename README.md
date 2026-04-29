@@ -7,6 +7,7 @@ This repository contains the MATLAB codes used in the numerical experiments of t
 This code accompanies the paper:
 
 > F. Babu, O. P. Ferreira, L. F. Prudente, Jen-Chih Yao, and Xiaopeng Zhao
+> 
 > Ball-proximal point method on Hadamard manifolds, 2026.
 
 If you use this code in academic work, please cite the paper.
